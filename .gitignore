@@ -1,0 +1,7 @@
+# Project exclude paths
+/.gradle/
+/Cinema Room Manager/task/build/
+/Cinema Room Manager/task/out/
+/Cinema Room Manager/task/out/production/classes/
+/Topics/Iterating over arrays/Right Rotation/out/
+/Topics/Iterating over arrays/Right Rotation/out/production/classes/
